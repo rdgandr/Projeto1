@@ -1,0 +1,13 @@
+.info{
+    display:flex ;
+    flex-direction:row ;
+}
+
+.info-label{
+    margin-right: 10px;
+     font-weight: bold ;
+}
+
+.info-value{
+
+}
